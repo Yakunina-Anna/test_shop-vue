@@ -1,7 +1,7 @@
 <template>
     <article class="products__item">
         <div class="products__img">
-            <img class="products__img-card" :src="product.img" alt="product">
+            <img class="products__img-card" src="@/assets/product-item/firstCard.jpg" alt="product">
             <div class="products__overlay">
                 <product-btn/>
             </div>
