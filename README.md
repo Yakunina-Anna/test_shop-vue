@@ -1,5 +1,5 @@
 # shop
-
+Vue3 Vue Router UiComponents
 ## Project setup
 ```
 npm install
