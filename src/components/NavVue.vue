@@ -21,7 +21,7 @@ export default {
     return{
       links:[
         {id:1,title:"Главная",put:"/"},
-        {id:2,title:"Каталог",put:"/about"}
+        {id:2,title:"Регистрация",put:"/about"}
       ]
     }
   }
